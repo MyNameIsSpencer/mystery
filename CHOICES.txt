@@ -1,7 +1,10 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
-Fifth Choice: ____
+First Choice: __1__
+Second Choice: __1__
+Third Choice: __1__
+Fourth Choice: __3__
+Fifth Choice: _1___
+Sixth Choice: __3__
+Seventh Choice: ____
+Eighth Choice: ____
