@@ -1,7 +1,14 @@
 CHOICES
 
+<<<<<<< HEAD
 First Choice: _1___
 Second Choice: ___3_
 Third Choice: __1__
 Fourth Choice: __1__
+=======
+First Choice: _2___
+Second Choice: ____
+Third Choice: ____
+Fourth Choice: ____
+>>>>>>> fire
 Fifth Choice: ____
