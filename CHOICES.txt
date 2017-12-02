@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: __1__
 Second Choice: __3__
-Third Choice: ____
+Third Choice: ___3_
 Fourth Choice: ____
 Fifth Choice: ____
